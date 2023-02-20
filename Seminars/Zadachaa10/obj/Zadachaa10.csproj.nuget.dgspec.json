@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kolya\\Desktop\\GB\\C#\\Seminars\\Seminars.csproj": {}
+    "C:\\Users\\Kolya\\Desktop\\GB\\C#\\Seminars\\Zadachaa10\\Zadachaa10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kolya\\Desktop\\GB\\C#\\Seminars\\Seminars.csproj": {
+    "C:\\Users\\Kolya\\Desktop\\GB\\C#\\Seminars\\Zadachaa10\\Zadachaa10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kolya\\Desktop\\GB\\C#\\Seminars\\Seminars.csproj",
-        "projectName": "Seminars",
-        "projectPath": "C:\\Users\\Kolya\\Desktop\\GB\\C#\\Seminars\\Seminars.csproj",
+        "projectUniqueName": "C:\\Users\\Kolya\\Desktop\\GB\\C#\\Seminars\\Zadachaa10\\Zadachaa10.csproj",
+        "projectName": "Zadachaa10",
+        "projectPath": "C:\\Users\\Kolya\\Desktop\\GB\\C#\\Seminars\\Zadachaa10\\Zadachaa10.csproj",
         "packagesPath": "C:\\Users\\Kolya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kolya\\Desktop\\GB\\C#\\Seminars\\obj\\",
+        "outputPath": "C:\\Users\\Kolya\\Desktop\\GB\\C#\\Seminars\\Zadachaa10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kolya\\AppData\\Roaming\\NuGet\\NuGet.Config"
