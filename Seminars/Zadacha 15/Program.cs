@@ -9,7 +9,7 @@ Console.Clear();
 Console.Write("Введите цифру, обозначающую день недели: ");
 int numberDayOfWeek = int.Parse(Console.ReadLine()!);
 
-while (numberDayOfWeek < 1 || numberDayOfWeek < 7)
+while (numberDayOfWeek < 1 || numberDayOfWeek > 7)
 {
     Console.Write("Введите цифру от 1 до 7!: ");
     numberDayOfWeek = int.Parse (Console.ReadLine()!);
