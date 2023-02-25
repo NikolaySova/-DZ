@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kolya\\Desktop\\GB\\C#\\Seminars\\Zadacha19\\Zadacha19.csproj",
+      "projectUniqueName": "C:\\Users\\Kolya\\Desktop\\GB\\C#\\Seminars\\Zadacha 19\\Zadacha19.csproj",
       "projectName": "Zadacha19",
-      "projectPath": "C:\\Users\\Kolya\\Desktop\\GB\\C#\\Seminars\\Zadacha19\\Zadacha19.csproj",
+      "projectPath": "C:\\Users\\Kolya\\Desktop\\GB\\C#\\Seminars\\Zadacha 19\\Zadacha19.csproj",
       "packagesPath": "C:\\Users\\Kolya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kolya\\Desktop\\GB\\C#\\Seminars\\Zadacha19\\obj\\",
+      "outputPath": "C:\\Users\\Kolya\\Desktop\\GB\\C#\\Seminars\\Zadacha 19\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kolya\\AppData\\Roaming\\NuGet\\NuGet.Config"
