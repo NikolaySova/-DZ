@@ -1,0 +1,15 @@
+C:\Users\Kolya\Desktop\GB\C#\Seminars\Zadacha 60\bin\Debug\net6.0\Zadacha 60.exe
+C:\Users\Kolya\Desktop\GB\C#\Seminars\Zadacha 60\bin\Debug\net6.0\Zadacha 60.deps.json
+C:\Users\Kolya\Desktop\GB\C#\Seminars\Zadacha 60\bin\Debug\net6.0\Zadacha 60.runtimeconfig.json
+C:\Users\Kolya\Desktop\GB\C#\Seminars\Zadacha 60\bin\Debug\net6.0\Zadacha 60.dll
+C:\Users\Kolya\Desktop\GB\C#\Seminars\Zadacha 60\bin\Debug\net6.0\Zadacha 60.pdb
+C:\Users\Kolya\Desktop\GB\C#\Seminars\Zadacha 60\obj\Debug\net6.0\Zadacha 60.csproj.AssemblyReference.cache
+C:\Users\Kolya\Desktop\GB\C#\Seminars\Zadacha 60\obj\Debug\net6.0\Zadacha 60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kolya\Desktop\GB\C#\Seminars\Zadacha 60\obj\Debug\net6.0\Zadacha 60.AssemblyInfoInputs.cache
+C:\Users\Kolya\Desktop\GB\C#\Seminars\Zadacha 60\obj\Debug\net6.0\Zadacha 60.AssemblyInfo.cs
+C:\Users\Kolya\Desktop\GB\C#\Seminars\Zadacha 60\obj\Debug\net6.0\Zadacha 60.csproj.CoreCompileInputs.cache
+C:\Users\Kolya\Desktop\GB\C#\Seminars\Zadacha 60\obj\Debug\net6.0\Zadacha 60.dll
+C:\Users\Kolya\Desktop\GB\C#\Seminars\Zadacha 60\obj\Debug\net6.0\refint\Zadacha 60.dll
+C:\Users\Kolya\Desktop\GB\C#\Seminars\Zadacha 60\obj\Debug\net6.0\Zadacha 60.pdb
+C:\Users\Kolya\Desktop\GB\C#\Seminars\Zadacha 60\obj\Debug\net6.0\Zadacha 60.genruntimeconfig.cache
+C:\Users\Kolya\Desktop\GB\C#\Seminars\Zadacha 60\obj\Debug\net6.0\ref\Zadacha 60.dll
